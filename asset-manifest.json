@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "./static/css/main.7267d6b4.css",
-    "main.js": "./static/js/main.dd80e156.js",
+    "main.css": "./static/css/main.94223c71.css",
+    "main.js": "./static/js/main.ea726a18.js",
     "static/js/787.1ed0c42c.chunk.js": "./static/js/787.1ed0c42c.chunk.js",
     "static/media/Jason-Neff-onWhite.svg": "./static/media/Jason-Neff-onWhite.e8bc5e7b4f2062a1241c54d5b0c7c283.svg",
     "static/media/Jason-Neff-onGray.svg": "./static/media/Jason-Neff-onGray.cfe46db25665912fbb4008c437117dd5.svg",
     "static/media/Jason-Neff-onColor.svg": "./static/media/Jason-Neff-onColor.917fad6387313a325845c01928a69bff.svg",
     "index.html": "./index.html",
-    "main.7267d6b4.css.map": "./static/css/main.7267d6b4.css.map",
-    "main.dd80e156.js.map": "./static/js/main.dd80e156.js.map",
+    "main.94223c71.css.map": "./static/css/main.94223c71.css.map",
+    "main.ea726a18.js.map": "./static/js/main.ea726a18.js.map",
     "787.1ed0c42c.chunk.js.map": "./static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7267d6b4.css",
-    "static/js/main.dd80e156.js"
+    "static/css/main.94223c71.css",
+    "static/js/main.ea726a18.js"
   ]
 }
