@@ -1,18 +1,24 @@
 {
   "files": {
-    "main.css": "./static/css/main.94223c71.css",
-    "main.js": "./static/js/main.ea726a18.js",
+    "main.css": "./static/css/main.73834bc0.css",
+    "main.js": "./static/js/main.099773bc.js",
     "static/js/787.1ed0c42c.chunk.js": "./static/js/787.1ed0c42c.chunk.js",
+    "static/media/RR Markiting.jpg": "./static/media/RR Markiting.1b1047c247f1e9944fe3.jpg",
+    "static/media/packaging-demo.jpg": "./static/media/packaging-demo.588f72fc0a616fcc6a4a.jpg",
+    "static/media/Ticker-Demo.jpg": "./static/media/Ticker-Demo.02556dc3c17c0f2ca936.jpg",
+    "static/media/Awards-Demo.jpg": "./static/media/Awards-Demo.1839461e71f8b1c308b7.jpg",
+    "static/media/Iphone-Demo.jpg": "./static/media/Iphone-Demo.384eb0b64734c9229c4d.jpg",
+    "static/media/TropicalShores-Demo.jpg": "./static/media/TropicalShores-Demo.73a8bf229f27986989bc.jpg",
     "static/media/Jason-Neff-onWhite.svg": "./static/media/Jason-Neff-onWhite.e8bc5e7b4f2062a1241c54d5b0c7c283.svg",
     "static/media/Jason-Neff-onGray.svg": "./static/media/Jason-Neff-onGray.cfe46db25665912fbb4008c437117dd5.svg",
     "static/media/Jason-Neff-onColor.svg": "./static/media/Jason-Neff-onColor.917fad6387313a325845c01928a69bff.svg",
     "index.html": "./index.html",
-    "main.94223c71.css.map": "./static/css/main.94223c71.css.map",
-    "main.ea726a18.js.map": "./static/js/main.ea726a18.js.map",
+    "main.73834bc0.css.map": "./static/css/main.73834bc0.css.map",
+    "main.099773bc.js.map": "./static/js/main.099773bc.js.map",
     "787.1ed0c42c.chunk.js.map": "./static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.94223c71.css",
-    "static/js/main.ea726a18.js"
+    "static/css/main.73834bc0.css",
+    "static/js/main.099773bc.js"
   ]
 }
