@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.703ed267.css",
-    "main.js": "./static/js/main.fee9c2d9.js",
+    "main.css": "./static/css/main.2bb94134.css",
+    "main.js": "./static/js/main.d81c2908.js",
     "static/js/787.1ed0c42c.chunk.js": "./static/js/787.1ed0c42c.chunk.js",
     "static/media/RR-Markiting-Demo-Web.jpg": "./static/media/RR-Markiting-Demo-Web.dbfdc77a3747fdcf9bac.jpg",
     "static/media/Ticker-Demo-Web.jpg": "./static/media/Ticker-Demo-Web.eaf463d7f27021e2dbc7.jpg",
@@ -13,12 +13,12 @@
     "static/media/Jason-Neff-onGray.svg": "./static/media/Jason-Neff-onGray.cfe46db25665912fbb4008c437117dd5.svg",
     "static/media/Jason-Neff-onColor.svg": "./static/media/Jason-Neff-onColor.917fad6387313a325845c01928a69bff.svg",
     "index.html": "./index.html",
-    "main.703ed267.css.map": "./static/css/main.703ed267.css.map",
-    "main.fee9c2d9.js.map": "./static/js/main.fee9c2d9.js.map",
+    "main.2bb94134.css.map": "./static/css/main.2bb94134.css.map",
+    "main.d81c2908.js.map": "./static/js/main.d81c2908.js.map",
     "787.1ed0c42c.chunk.js.map": "./static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.703ed267.css",
-    "static/js/main.fee9c2d9.js"
+    "static/css/main.2bb94134.css",
+    "static/js/main.d81c2908.js"
   ]
 }
